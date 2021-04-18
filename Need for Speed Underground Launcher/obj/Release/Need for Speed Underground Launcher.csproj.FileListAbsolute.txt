@@ -1,0 +1,13 @@
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\bin\Release\Need for Speed Underground Launcher.exe.config
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\bin\Release\Need for Speed Underground Launcher.exe
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\bin\Release\Need for Speed Underground Launcher.pdb
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\bin\Release\System.Management.Automation.dll
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\bin\Release\System.Management.Automation.xml
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\obj\Release\Need_for_Speed_Underground_Launcher.frmLauncher.resources
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\obj\Release\Need_for_Speed_Underground_Launcher.Properties.Resources.resources
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\obj\Release\Need for Speed Underground Launcher.csproj.GenerateResource.cache
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\obj\Release\Need for Speed Underground Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\obj\Release\Need for Speed Underground Launcher.csproj.CopyComplete
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\obj\Release\Need for Speed Underground Launcher.exe
+C:\Users\Patrick Brophy\Documents\Visual Studio 2019\Need For Speed Underground Launcher\Need for Speed Underground Launcher\obj\Release\Need for Speed Underground Launcher.pdb
